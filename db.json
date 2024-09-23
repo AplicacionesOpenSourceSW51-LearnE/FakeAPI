@@ -1,1 +1,31 @@
-
+{
+	"users": [
+		{
+			"id": 1,
+			"name": "Jorge"
+		},
+		{
+			"id": 2,
+			"name": "David"
+		},
+		{
+			"id": 3,
+			"name": "Javier"
+		}
+	
+	],
+	"courses":[
+		{
+			"id": 1,
+			"title": "Introduction to Java"
+		},
+		{
+			"id": 2,
+			"title": "Introduction to Python"
+		},
+		{
+			"id": 3,
+			"title": "Calculus II"
+		}
+	]
+}
